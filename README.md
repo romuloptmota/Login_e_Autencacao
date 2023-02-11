@@ -1,4 +1,4 @@
-# Criação pagina de cadastro  
+# Login e Autenticação Customizados 
 <img src="images/logo_python.png" width="30"> <img src="images/logo_django.png" width="35">
 
 
